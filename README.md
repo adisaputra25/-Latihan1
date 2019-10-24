@@ -1,5 +1,5 @@
 #latihan 1
-#mengenal control version system(VCS)
+##mengenal control version system(VCS)
 vcs adalah suatu system yang membatalkan semua perubahan yang terjadi pada file atau sekumpulan file seiring dengan waktu, jadi dengan demikian kamu dapat memanggil versi spesifiknya di lain >
 #langkah-langkah menggunakan git.
 1.membuat repository dengan perintah 'git init'
